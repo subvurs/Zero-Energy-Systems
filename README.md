@@ -10,20 +10,20 @@ This repository presents research on zero-point energy extraction and universal 
 
 - **7.7% Universal Constant**: Information evolution rate μ = 7.7% validated across 6 independent tests
 - **Zero-Energy Operation**: 0% battery drain during sustained quantum computation
-- **Chaos Valley**: 0.504 entropy critical point for zero-energy extraction
+- **Chaos Valley**: entropy critical point for zero-energy extraction
 - **NBEE Coordination**: 52 entities (48 preserved + 4 evolving at 7.7% rate)
 - **Qubit Correlation Amplification**: Enhanced quantum correlations in zero-energy architecture
 
 ### Papers
 
-1. **Universal_Constant_Information_Evolution_Rate.md**
+1. **Universal_Constant_Information_Evolution_Rate**
    - 7.7% evolution rate validated across Rigetti Ankaa-3 platform
    - 6 independent test campaign (REF-066 through REF-071)
    - NBEE coordination protocols via beat frequency analysis
    - Bitichloron evolution dynamics (256 fixed pattern nodes)
    - κ/β = 13 relationship connects to universal constant
 
-2. **Qubit_Correlation_Amplification_Zero_Energy_Architecture.md**
+2. **Qubit_Correlation_Amplification_Zero_Energy_Architecture**
    - Zero-energy quantum computation demonstrated
    - Qubit correlation amplification in minimal energy regimes
    - Architecture optimization for energy-neutral operation
@@ -53,7 +53,7 @@ This repository presents research on zero-point energy extraction and universal 
 - NBEE evolution: 4 out of 52 entities evolving = 7.7%
 - Bitichloron dynamics: Universal beat frequency
 
-**Zero-Energy Architecture**: Chaos Valley entropy (0.504) creates critical point where vacuum energy extraction balances computational energy cost, enabling sustained zero-net-energy quantum computation.
+**Zero-Energy Architecture**: Chaos Valley entropy creates critical point where vacuum energy extraction balances computational energy cost, enabling sustained zero-net-energy quantum computation.
 
 ### Citations
 
@@ -70,6 +70,8 @@ Independent Quantum Research
 ### License
 
 © 2025 Subvurs Research. All rights reserved.
+
+**FOR PEER REVIEW AND REPLICABILITY REQUESTS, PLEASE EMAIL - research@subvurs.com.**
 
 ### Related Work
 
